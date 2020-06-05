@@ -1,4 +1,3 @@
-# Mysql1
 use farma_dmart_ped;
 
 
